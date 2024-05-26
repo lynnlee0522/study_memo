@@ -24,7 +24,6 @@ file
 tab
 - ctrl + tab  切换tab
 
-
-
-
-Minim id ea deserunt ea pariatur  minim labore exercitation do in ostrud id veniam dolore eaecat enim id. Minim nostrud dolor quis laborum quis fugiat culpa ex culpa exercitation deserunt. Sunt voluptate sunt qui molli
+***
+window
+- cmd + shift + n  open new window
