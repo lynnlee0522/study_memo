@@ -26,3 +26,4 @@
 tab
 - ctrl + tab - toggle tab
 - ctrl + shift + tab - toggle tab
+- t - open a new tab
